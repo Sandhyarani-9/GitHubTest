@@ -1,2 +1,3 @@
 # GitHubTest
-This is for testing
+This is for understing the GitHub
+
